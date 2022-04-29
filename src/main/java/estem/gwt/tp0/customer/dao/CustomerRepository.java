@@ -1,5 +1,6 @@
-package estem.gwt.tp0.customer.entities;
+package estem.gwt.tp0.customer.dao;
 
+import estem.gwt.tp0.customer.entities.Customer;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

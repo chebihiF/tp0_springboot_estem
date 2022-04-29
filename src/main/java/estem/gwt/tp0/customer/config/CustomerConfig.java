@@ -1,7 +1,7 @@
 package estem.gwt.tp0.customer.config;
 
+import estem.gwt.tp0.customer.dao.CustomerRepository;
 import estem.gwt.tp0.customer.entities.Customer;
-import estem.gwt.tp0.customer.entities.CustomerRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
